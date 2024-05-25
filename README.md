@@ -1,13 +1,3 @@
-﻿# llama-doc-qa
-
-# Repository Name
-llama-doc-qa
-
-# Short Description
-A Streamlit application leveraging Llama 3, Google Generative AI Embeddings, and FAISS for document-based Q&A.
-
-# Comprehensive Description
-## Harsh's Llama 3 Document Q&A
 
 This repository hosts a Streamlit application designed for efficient question-answering over a collection of documents. The application uses the following components:
 
