@@ -14,7 +14,7 @@ This repository hosts a Streamlit application designed for efficient question-an
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/llama-doc-qa.git
+    git clone https://github.com/harshgurawaliya1/llama-doc-qa.git
     cd llama-doc-qa
     ```
 2. Install the required dependencies:
