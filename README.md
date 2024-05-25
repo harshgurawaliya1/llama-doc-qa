@@ -1,4 +1,6 @@
 
+t![Screenshot 2024-05-25 091318](https://github.com/harshgurawaliya1/llama-doc-qa/assets/106898396/b0d04482-6283-4032-9cc4-7de43b2f713e)
+
 This repository hosts a Streamlit application designed for efficient question-answering over a collection of documents. The application uses the following components:
 
 - **Llama 3 by Groq** for natural language processing.
